@@ -1,0 +1,86 @@
+aid: hyperwrite
+name: HyperWrite
+description: HyperWrite (by OthersideAI) is an AI writing assistant plus Personal Assistant and Agent product line that combines AutoWrite, TypeAhead, HyperChat, an AI Document Editor, Scholar AI research, and a Chrome extension that lets an agent take real actions in the browser (Gmail, LinkedIn, shopping, travel). HyperWrite has historically described a partner/API program for its agent, but there is no fully public self-serve API reference - profiled here through the consumer product surface.
+image: https://www.hyperwriteai.com/images/og-image.png
+tags:
+  - AI
+  - Writing
+  - Assistant
+  - Agent
+  - Browser Automation
+  - Consumer
+  - Productivity
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.18'
+position: Consuming
+kind: contract
+access: 3rd-Party
+apis: []
+common:
+  - url: https://www.hyperwriteai.com/
+    type: Website
+  - url: https://app.hyperwriteai.com/
+    type: Portal
+  - url: https://app.hyperwriteai.com/signup
+    type: SignUp
+  - url: https://app.hyperwriteai.com/login
+    type: Login
+  - url: https://www.hyperwriteai.com/personal-assistant
+    type: Product
+  - url: https://www.hyperwriteai.com/agent
+    type: Product
+  - url: https://www.hyperwriteai.com/pricing
+    type: Pricing
+  - url: https://www.hyperwriteai.com/blog
+    type: Blog
+  - url: https://help.hyperwriteai.com/
+    type: Support
+  - url: https://www.hyperwriteai.com/privacy-policy
+    type: PrivacyPolicy
+  - url: https://www.hyperwriteai.com/terms-of-service
+    type: TermsOfService
+  - url: https://chromewebstore.google.com/detail/hyperwrite-ai-writing-ass/dfdjpfppmkohbpgancpaomeemmpfcfdo
+    type: ChromeExtension
+  - url: https://www.hyperwriteai.com/affiliates
+    type: AffiliateProgram
+  - url: https://x.com/HyperWriteAI
+    type: X (Twitter)
+  - url: https://www.linkedin.com/company/othersideai
+    type: LinkedIn
+  - url: https://discord.com/invite/hyperwrite
+    type: Discord
+  - url: https://www.youtube.com/@HyperWriteAI
+    type: YouTube
+  - type: Features
+    data:
+      - AutoWrite for paragraph generation on any topic
+      - TypeAhead context-aware sentence completion
+      - HyperChat conversational AI
+      - Email Response auto-reply drafting
+      - AI Document Editor for long-form writing
+      - Scholar AI research with peer-reviewed citations
+      - 100+ pre-built writing tools (summarize, rewrite, etc.)
+      - Custom user-built AI tools
+      - Personal Assistant agent that controls the browser
+      - Agent capabilities - Gmail inbox triage, LinkedIn research, flight booking, food ordering, bill payment
+      - Chrome extension for in-page assistance across the web
+      - Premium $19.99/mo (250 messages, 3 personas, citations)
+      - Ultra $44.99/mo (unlimited messages, 10 personas, experimental features)
+      - Annual plans with 20% discount
+      - Built by OthersideAI
+    sources:
+      - https://www.hyperwriteai.com/
+      - https://www.hyperwriteai.com/personal-assistant
+    updated: '2026-05-23'
+  - type: Notes
+    data:
+      - No fully public, self-serve REST/GraphQL API reference is published as of May 2026.
+      - HyperWrite has signaled partner/API access for its agent capabilities; access appears to be sales-led.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+  - FN: APIs.json
+    email: info@apis.io
+  - name: HyperWrite (OthersideAI)
+    url: https://www.hyperwriteai.com/
