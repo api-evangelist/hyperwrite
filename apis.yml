@@ -23,7 +23,7 @@ common:
   - url: https://app.hyperwriteai.com/
     type: Portal
   - url: https://app.hyperwriteai.com/signup
-    type: SignUp
+    type: Signup
   - url: https://app.hyperwriteai.com/login
     type: Login
   - url: https://www.hyperwriteai.com/personal-assistant
