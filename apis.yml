@@ -18,6 +18,8 @@ kind: contract
 access: 3rd-Party
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/hyperwrite-domain-security.yml
   - url: https://www.hyperwriteai.com/
     type: Website
   - url: https://app.hyperwriteai.com/
