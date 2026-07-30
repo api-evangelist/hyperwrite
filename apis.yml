@@ -1,6 +1,17 @@
 aid: hyperwrite
 name: HyperWrite
 description: HyperWrite (by OthersideAI) is an AI writing assistant plus Personal Assistant and Agent product line that combines AutoWrite, TypeAhead, HyperChat, an AI Document Editor, Scholar AI research, and a Chrome extension that lets an agent take real actions in the browser (Gmail, LinkedIn, shopping, travel). HyperWrite has historically described a partner/API program for its agent, but there is no fully public self-serve API reference - profiled here through the consumer product surface.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.hyperwriteai.com/images/og-image.png
 tags:
   - AI
