@@ -1,1 +1,0 @@
-# HyperWrite GraphQL API
