@@ -1,0 +1,33 @@
+# Front Door AI Index — hyperwrite — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: hyperwrite
+  lexicon_version: '1.0'
+  probed_at: '2026-09-25'
+  host: www.hyperwriteai.com
+  final_host: www.hyperwriteai.com
+  ownership: own
+  owner: hyperwrite
+  shares_host_with: null
+  inherited_from: null
+  alias_of: null
+  verdict: scored
+  score: 60
+  band: 6
+  band_label: dominant
+  host_score: 60
+  density: 50.21
+  words: 1195
+  tiers:
+    agentic: 2
+    core: 58
+    model: 0
+  ambiguous: 6
+  top_terms:
+    AI: 56
+    AI assistant: 2
+    agent: 2
+    artificial intelligence: 2
+    intelligence: 2
+    predictive: 2
